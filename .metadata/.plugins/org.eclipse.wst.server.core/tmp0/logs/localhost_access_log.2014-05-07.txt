@@ -1,0 +1,4 @@
+127.0.0.1 - - [07/May/2014:10:17:41 -0600] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [07/May/2014:10:17:43 -0600] "POST /MavenServerProfil/rest/manageProfile HTTP/1.1" 404 1023
+127.0.0.1 - - [07/May/2014:10:21:23 -0600] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [07/May/2014:10:29:29 -0600] "POST /MavenServerProfil/rest/manageProfile HTTP/1.1" 404 1023

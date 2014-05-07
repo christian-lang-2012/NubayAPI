@@ -1,0 +1,751 @@
+2014-05-07 09:12:30,580 [ModalContext] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-egit does not contain lifecycle mapping metadata
+2014-05-07 09:12:30,598 [ModalContext] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-subversive does not contain lifecycle mapping metadata
+2014-05-07 09:12:30,605 [ModalContext] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-subclipse does not contain lifecycle mapping metadata
+2014-05-07 09:12:39,817 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: NonMavenAuthObjects:NonMavenAuthObjects:0.0.1-SNAPSHOT @ C:\School Work\Distributed Systems\NonMavenAuthObjects\pom.xml.
+2014-05-07 09:12:42,479 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /NonMavenAuthObjects/src
+2014-05-07 09:12:42,481 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /NonMavenAuthObjects/src overlaps with sources folder /NonMavenAuthObjects/src
+2014-05-07 09:12:42,488 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /NonMavenAuthObjects/src/test/java because it overlaps with /NonMavenAuthObjects/src
+2014-05-07 09:12:42,541 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: NonMavenAuthObjects:NonMavenAuthObjects:0.0.1-SNAPSHOT @ C:\School Work\Distributed Systems\NonMavenAuthObjects\pom.xml.
+2014-05-07 09:12:45,028 [Worker-0] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Project import completed 8 sec
+2014-05-07 09:12:47,406 [Worker-2] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2014-05-07 09:12:47,407 [Worker-2] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2014-05-07 09:12:49,367 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: NonMavenAuthObjects:NonMavenAuthObjects:0.0.1-SNAPSHOT @ C:\School Work\Distributed Systems\NonMavenAuthObjects\pom.xml.
+2014-05-07 09:12:49,851 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: NonMavenAuthObjects:NonMavenAuthObjects:0.0.1-SNAPSHOT @ C:\School Work\Distributed Systems\NonMavenAuthObjects\pom.xml.
+2014-05-07 09:12:51,617 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:12:51,640 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-07 09:12:51,675 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:12:51,686 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NonMavenAuthObjects\src\test\resources
+2014-05-07 09:12:52,976 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: NonMavenAuthObjects:NonMavenAuthObjects:0.0.1-SNAPSHOT @ C:\School Work\Distributed Systems\NonMavenAuthObjects\pom.xml.
+2014-05-07 09:12:54,249 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:12:54,259 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-07 09:12:54,270 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:12:54,282 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NonMavenAuthObjects\src\test\resources
+2014-05-07 09:13:05,323 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: AuthService:AuthService:0.0.1-SNAPSHOT @ C:\School Work\Distributed Systems\AuthService\pom.xml.
+2014-05-07 09:13:06,850 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /AuthService/src/main/java
+2014-05-07 09:13:06,860 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /AuthService/src/test/java
+2014-05-07 09:13:07,821 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: AuthService:AuthService:0.0.1-SNAPSHOT @ C:\School Work\Distributed Systems\AuthService\pom.xml.
+2014-05-07 09:13:08,643 [Worker-6] ERROR o.e.m2e.wtp.WTPProjectConfigurator - Unable to configure AuthService
+org.eclipse.m2e.wtp.MarkedException: Unable to configure AuthService
+	at org.eclipse.m2e.wtp.AbstractProjectConfiguratorDelegate.configureProject(AbstractProjectConfiguratorDelegate.java:97) ~[na:na]
+	at org.eclipse.m2e.wtp.WTPProjectConfigurator.configure(WTPProjectConfigurator.java:61) ~[na:na]
+	at org.eclipse.m2e.core.project.configurator.AbstractLifecycleMapping.configure(AbstractLifecycleMapping.java:109) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$3.call(ProjectConfigurationManager.java:472) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$3.call(ProjectConfigurationManager.java:1) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:161) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:137) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:465) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.configureNewMavenProjects(ProjectConfigurationManager.java:245) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$1.call(ProjectConfigurationManager.java:159) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$1.call(ProjectConfigurationManager.java:1) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:161) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:137) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:89) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1305) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.importProjects(ProjectConfigurationManager.java:134) ~[na:na]
+	at org.eclipse.m2e.core.ui.internal.wizards.MavenImportWizard$1.doCreateMavenProjects(MavenImportWizard.java:172) ~[org.eclipse.m2e.core.ui_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.ui.internal.wizards.AbstractCreateMavenProjectsOperation.run(AbstractCreateMavenProjectsOperation.java:74) ~[org.eclipse.m2e.core.ui_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.ui.internal.wizards.MavenImportWizard$3.runInWorkspace(MavenImportWizard.java:257) ~[org.eclipse.m2e.core.ui_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:38) ~[na:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53) ~[org.eclipse.core.jobs_3.5.300.v20130429-1813.jar:na]
+Caused by: org.eclipse.core.runtime.CoreException: One or more constraints have not been satisfied.
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.modifyInternal(FacetedProject.java:363) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.mergeChangesInternal(FacetedProject.java:1181) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.access$2(FacetedProject.java:1117) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject$1.run(FacetedProject.java:324) ~[na:na]
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2345) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.modify(FacetedProject.java:339) ~[na:na]
+	at org.eclipse.m2e.wtp.WebProjectConfiguratorDelegate.configure(WebProjectConfiguratorDelegate.java:150) ~[na:na]
+	at org.eclipse.m2e.wtp.AbstractProjectConfiguratorDelegate.configureProject(AbstractProjectConfiguratorDelegate.java:93) ~[na:na]
+	... 20 common frames omitted
+2014-05-07 09:13:08,764 [Worker-6] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Project import completed 4 sec
+2014-05-07 09:13:09,861 [Worker-1] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2014-05-07 09:13:09,870 [Worker-1] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2014-05-07 09:13:10,577 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:13:10,586 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\AuthService\src\main\resources
+2014-05-07 09:13:10,601 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:13:10,610 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\AuthService\src\test\resources
+2014-05-07 09:16:01,966 [ModalContext] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-egit does not contain lifecycle mapping metadata
+2014-05-07 09:16:01,985 [ModalContext] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-subversive does not contain lifecycle mapping metadata
+2014-05-07 09:16:01,994 [ModalContext] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-subclipse does not contain lifecycle mapping metadata
+2014-05-07 09:16:07,100 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: AuthService:AuthService:0.0.1-SNAPSHOT @ C:\School Work\Distributed Systems\NubayWorkspace\AuthService\pom.xml.
+2014-05-07 09:16:09,219 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /AuthService/src/main/java
+2014-05-07 09:16:09,221 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /AuthService/src/test/java
+2014-05-07 09:16:09,827 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: AuthService:AuthService:0.0.1-SNAPSHOT @ C:\School Work\Distributed Systems\NubayWorkspace\AuthService\pom.xml.
+2014-05-07 09:16:10,617 [Worker-3] ERROR o.e.m2e.wtp.WTPProjectConfigurator - Unable to configure AuthService
+org.eclipse.m2e.wtp.MarkedException: Unable to configure AuthService
+	at org.eclipse.m2e.wtp.AbstractProjectConfiguratorDelegate.configureProject(AbstractProjectConfiguratorDelegate.java:97) ~[na:na]
+	at org.eclipse.m2e.wtp.WTPProjectConfigurator.configure(WTPProjectConfigurator.java:61) ~[na:na]
+	at org.eclipse.m2e.core.project.configurator.AbstractLifecycleMapping.configure(AbstractLifecycleMapping.java:109) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$3.call(ProjectConfigurationManager.java:472) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$3.call(ProjectConfigurationManager.java:1) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:161) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:137) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:465) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.configureNewMavenProjects(ProjectConfigurationManager.java:245) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$1.call(ProjectConfigurationManager.java:159) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$1.call(ProjectConfigurationManager.java:1) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:161) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:137) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:89) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1305) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.importProjects(ProjectConfigurationManager.java:134) ~[na:na]
+	at org.eclipse.m2e.core.ui.internal.wizards.MavenImportWizard$1.doCreateMavenProjects(MavenImportWizard.java:172) ~[org.eclipse.m2e.core.ui_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.ui.internal.wizards.AbstractCreateMavenProjectsOperation.run(AbstractCreateMavenProjectsOperation.java:74) ~[org.eclipse.m2e.core.ui_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.ui.internal.wizards.MavenImportWizard$3.runInWorkspace(MavenImportWizard.java:257) ~[org.eclipse.m2e.core.ui_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:38) ~[na:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53) ~[org.eclipse.core.jobs_3.5.300.v20130429-1813.jar:na]
+Caused by: org.eclipse.core.runtime.CoreException: One or more constraints have not been satisfied.
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.modifyInternal(FacetedProject.java:363) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.mergeChangesInternal(FacetedProject.java:1181) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.access$2(FacetedProject.java:1117) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject$1.run(FacetedProject.java:324) ~[na:na]
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2345) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.modify(FacetedProject.java:339) ~[na:na]
+	at org.eclipse.m2e.wtp.WebProjectConfiguratorDelegate.configure(WebProjectConfiguratorDelegate.java:150) ~[na:na]
+	at org.eclipse.m2e.wtp.AbstractProjectConfiguratorDelegate.configureProject(AbstractProjectConfiguratorDelegate.java:93) ~[na:na]
+	... 20 common frames omitted
+2014-05-07 09:16:10,695 [Worker-3] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Project import completed 5 sec
+2014-05-07 09:16:11,224 [Worker-3] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2014-05-07 09:16:11,226 [Worker-3] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2014-05-07 09:16:11,632 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:16:11,640 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\AuthService\src\main\resources
+2014-05-07 09:16:11,646 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:16:11,653 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\AuthService\src\test\resources
+2014-05-07 09:16:12,478 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: AuthService:AuthService:0.0.1-SNAPSHOT @ C:\School Work\Distributed Systems\NubayWorkspace\AuthService\pom.xml.
+2014-05-07 09:16:13,835 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:16:13,843 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\AuthService\src\main\resources
+2014-05-07 09:16:13,848 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:16:13,855 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\AuthService\src\test\resources
+2014-05-07 09:16:36,914 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.neumont.csc380:CMS-Client:0.0.1-SNAPSHOT @ C:\School Work\Distributed Systems\NubayWorkspace\CMS Client\pom.xml.
+2014-05-07 09:16:37,919 [Worker-4] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /CMS Client/src/main/java because it overlaps with /CMS Client/src
+2014-05-07 09:16:37,928 [Worker-4] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /CMS Client/src/test/java because it overlaps with /CMS Client/src
+2014-05-07 09:16:38,554 [Worker-4] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Project import completed 1 sec
+2014-05-07 09:16:38,717 [Worker-0] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2014-05-07 09:16:38,719 [Worker-0] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2014-05-07 09:16:39,023 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.neumont.csc380:CMS-Client:0.0.1-SNAPSHOT @ C:\School Work\Distributed Systems\NubayWorkspace\CMS Client\pom.xml.
+2014-05-07 09:16:39,856 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:16:39,869 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\CMS Client\src\main\resources
+2014-05-07 09:16:39,879 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:16:39,892 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\CMS Client\src\test\resources
+2014-05-07 09:16:41,066 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.neumont.csc380:CMS-Client:0.0.1-SNAPSHOT @ C:\School Work\Distributed Systems\NubayWorkspace\CMS Client\pom.xml.
+2014-05-07 09:16:42,075 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:16:42,091 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\CMS Client\src\main\resources
+2014-05-07 09:16:42,104 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:16:42,112 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\CMS Client\src\test\resources
+2014-05-07 09:16:57,282 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.neumont.csc380:CMS-Data:0.0.1-SNAPSHOT @ C:\School Work\Distributed Systems\NubayWorkspace\CMS Data\pom.xml.
+2014-05-07 09:16:57,511 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /CMS Data/src/main/java because it overlaps with /CMS Data/src
+2014-05-07 09:16:57,511 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /CMS Data/src/test/java because it overlaps with /CMS Data/src
+2014-05-07 09:16:57,689 [Worker-6] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Project import completed 0 sec
+2014-05-07 09:16:57,826 [Worker-9] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2014-05-07 09:16:57,834 [Worker-9] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2014-05-07 09:16:58,268 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.neumont.csc380:CMS-Data:0.0.1-SNAPSHOT @ C:\School Work\Distributed Systems\NubayWorkspace\CMS Data\pom.xml.
+2014-05-07 09:16:58,934 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.neumont.csc380:CMS-Data:0.0.1-SNAPSHOT @ C:\School Work\Distributed Systems\NubayWorkspace\CMS Data\pom.xml.
+2014-05-07 09:16:59,895 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:16:59,909 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\CMS Data\src\main\resources
+2014-05-07 09:16:59,920 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:16:59,926 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\CMS Data\src\test\resources
+2014-05-07 09:17:01,130 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.neumont.csc380:CMS-Data:0.0.1-SNAPSHOT @ C:\School Work\Distributed Systems\NubayWorkspace\CMS Data\pom.xml.
+2014-05-07 09:17:02,082 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:17:02,089 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\CMS Data\src\main\resources
+2014-05-07 09:17:02,093 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:17:02,105 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\CMS Data\src\test\resources
+2014-05-07 09:17:18,235 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.neumont.csc380:cms-server:0.0.1-SNAPSHOT @ C:\School Work\Distributed Systems\NubayWorkspace\CMS-Rest-API\pom.xml.
+2014-05-07 09:17:19,933 [Worker-10] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CMS-Rest-API/src/main/java
+2014-05-07 09:17:19,941 [Worker-10] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CMS-Rest-API/src/test/java
+2014-05-07 09:17:20,257 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.neumont.csc380:cms-server:0.0.1-SNAPSHOT @ C:\School Work\Distributed Systems\NubayWorkspace\CMS-Rest-API\pom.xml.
+2014-05-07 09:17:20,996 [Worker-10] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Project import completed 3 sec
+2014-05-07 09:17:22,726 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.neumont.csc380:cms-server:0.0.1-SNAPSHOT @ C:\School Work\Distributed Systems\NubayWorkspace\CMS-Rest-API\pom.xml.
+2014-05-07 09:17:23,754 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:17:23,767 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\CMS-Rest-API\src\main\resources
+2014-05-07 09:17:23,777 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:17:23,789 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\CMS-Rest-API\src\test\resources
+2014-05-07 09:17:23,953 [Worker-9] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2014-05-07 09:17:23,961 [Worker-9] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2014-05-07 09:17:25,205 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.neumont.csc380:cms-server:0.0.1-SNAPSHOT @ C:\School Work\Distributed Systems\NubayWorkspace\CMS-Rest-API\pom.xml.
+2014-05-07 09:17:43,934 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: NonMavenAuthObjects:NonMavenAuthObjects:0.0.1-SNAPSHOT @ C:\School Work\Distributed Systems\NubayWorkspace\NonMavenAuthObjects\pom.xml.
+2014-05-07 09:17:45,090 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /NonMavenAuthObjects/src
+2014-05-07 09:17:45,098 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /NonMavenAuthObjects/src overlaps with sources folder /NonMavenAuthObjects/src
+2014-05-07 09:17:45,109 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /NonMavenAuthObjects/src/test/java because it overlaps with /NonMavenAuthObjects/src
+2014-05-07 09:17:45,793 [Worker-5] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Project import completed 2 sec
+2014-05-07 09:17:46,132 [Worker-8] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2014-05-07 09:17:46,140 [Worker-8] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2014-05-07 09:17:46,180 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: NonMavenAuthObjects:NonMavenAuthObjects:0.0.1-SNAPSHOT @ C:\School Work\Distributed Systems\NubayWorkspace\NonMavenAuthObjects\pom.xml.
+2014-05-07 09:17:46,544 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:17:46,551 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\CMS-Rest-API\src\main\resources
+2014-05-07 09:17:46,565 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:17:46,574 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\CMS-Rest-API\src\test\resources
+2014-05-07 09:17:47,172 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: NonMavenAuthObjects:NonMavenAuthObjects:0.0.1-SNAPSHOT @ C:\School Work\Distributed Systems\NubayWorkspace\NonMavenAuthObjects\pom.xml.
+2014-05-07 09:17:48,231 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:17:48,264 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-07 09:17:48,305 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:17:48,319 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\NonMavenAuthObjects\src\test\resources
+2014-05-07 09:17:48,578 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:17:48,593 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\AuthService\src\main\resources
+2014-05-07 09:17:48,597 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:17:48,604 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\AuthService\src\test\resources
+2014-05-07 09:17:49,916 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: NonMavenAuthObjects:NonMavenAuthObjects:0.0.1-SNAPSHOT @ C:\School Work\Distributed Systems\NubayWorkspace\NonMavenAuthObjects\pom.xml.
+2014-05-07 09:17:51,089 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:17:51,109 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-07 09:17:51,121 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:17:51,129 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\NonMavenAuthObjects\src\test\resources
+2014-05-07 09:18:05,729 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:18:05,736 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\CMS Client\src\main\resources
+2014-05-07 09:18:05,739 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:18:05,745 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\CMS Client\src\test\resources
+2014-05-07 09:18:05,774 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:18:05,787 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\CMS Data\src\main\resources
+2014-05-07 09:18:05,796 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:18:05,803 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\CMS Data\src\test\resources
+2014-05-07 09:18:05,847 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:18:05,854 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\CMS-Rest-API\src\main\resources
+2014-05-07 09:18:05,859 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:18:05,866 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\CMS-Rest-API\src\test\resources
+2014-05-07 09:18:05,912 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:18:05,919 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-07 09:18:05,923 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:18:05,929 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\NonMavenAuthObjects\src\test\resources
+2014-05-07 09:18:05,960 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:18:05,967 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\AuthService\src\main\resources
+2014-05-07 09:18:05,973 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:18:05,980 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\AuthService\src\test\resources
+2014-05-07 09:18:41,628 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.neumont.csc380:cms-server:0.0.1-SNAPSHOT @ C:\School Work\Distributed Systems\NubayWorkspace\CMS-Rest-API\pom.xml.
+2014-05-07 09:18:43,134 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:18:43,141 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\CMS-Rest-API\src\main\resources
+2014-05-07 09:18:43,144 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:18:43,151 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\CMS-Rest-API\src\test\resources
+2014-05-07 09:19:06,056 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.neumont.csc380:CMS-Data:0.0.1-SNAPSHOT @ C:\School Work\Distributed Systems\NubayWorkspace\CMS Data\pom.xml.
+2014-05-07 09:19:06,207 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:19:06,214 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\CMS Data\src\main\resources
+2014-05-07 09:19:06,217 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:19:06,226 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\CMS Data\src\test\resources
+2014-05-07 09:20:45,403 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:20:45,421 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\CMS-Rest-API\src\main\resources
+2014-05-07 09:20:45,428 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:20:45,435 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\CMS-Rest-API\src\test\resources
+2014-05-07 09:24:06,232 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.neumont.csc380:CMS-Data:0.0.1-SNAPSHOT @ C:\School Work\Distributed Systems\NubayWorkspace\CMS Data\pom.xml.
+2014-05-07 09:24:07,097 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:24:07,104 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\CMS Data\src\main\resources
+2014-05-07 09:24:07,109 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:24:07,115 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\CMS Data\src\test\resources
+2014-05-07 09:24:32,063 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.neumont.csc380:CMS-Data:0.0.1-SNAPSHOT @ C:\School Work\Distributed Systems\NubayWorkspace\CMS Data\pom.xml.
+2014-05-07 09:24:32,227 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:24:32,233 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\CMS Data\src\main\resources
+2014-05-07 09:24:32,237 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:24:32,243 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\CMS Data\src\test\resources
+2014-05-07 09:25:12,123 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.neumont.csc380:CMS-Data:0.0.1-SNAPSHOT @ C:\School Work\Distributed Systems\NubayWorkspace\CMS Data\pom.xml.
+2014-05-07 09:25:12,886 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:25:12,901 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\CMS Data\src\main\resources
+2014-05-07 09:25:12,906 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:25:12,912 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\CMS Data\src\test\resources
+2014-05-07 09:25:14,587 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:25:14,603 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\CMS Data\src\main\resources
+2014-05-07 09:25:14,616 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:25:14,631 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\CMS Data\src\test\resources
+2014-05-07 09:25:40,426 [Worker-3] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2014-05-07 09:25:41,114 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: AuthService:AuthService:0.0.1-SNAPSHOT @ C:\School Work\Distributed Systems\NubayWorkspace\AuthService\pom.xml.
+2014-05-07 09:25:41,764 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.neumont.csc380:CMS-Client:0.0.1-SNAPSHOT @ C:\School Work\Distributed Systems\NubayWorkspace\CMS Client\pom.xml.
+2014-05-07 09:25:42,162 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.neumont.csc380:CMS-Data:0.0.1-SNAPSHOT @ C:\School Work\Distributed Systems\NubayWorkspace\CMS Data\pom.xml.
+2014-05-07 09:25:42,325 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.neumont.csc380:cms-server:0.0.1-SNAPSHOT @ C:\School Work\Distributed Systems\NubayWorkspace\CMS-Rest-API\pom.xml.
+2014-05-07 09:25:43,529 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: NonMavenAuthObjects:NonMavenAuthObjects:0.0.1-SNAPSHOT @ C:\School Work\Distributed Systems\NubayWorkspace\NonMavenAuthObjects\pom.xml.
+2014-05-07 09:25:45,818 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /AuthService/src/main/java
+2014-05-07 09:25:45,828 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /AuthService/src/test/java
+2014-05-07 09:25:46,438 [Worker-3] ERROR o.e.m2e.wtp.WTPProjectConfigurator - Unable to configure AuthService
+org.eclipse.m2e.wtp.MarkedException: Unable to configure AuthService
+	at org.eclipse.m2e.wtp.AbstractProjectConfiguratorDelegate.configureProject(AbstractProjectConfiguratorDelegate.java:97) ~[na:na]
+	at org.eclipse.m2e.wtp.WTPProjectConfigurator.configure(WTPProjectConfigurator.java:61) ~[na:na]
+	at org.eclipse.m2e.core.project.configurator.AbstractLifecycleMapping.configure(AbstractLifecycleMapping.java:109) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$3.call(ProjectConfigurationManager.java:472) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$3.call(ProjectConfigurationManager.java:1) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:161) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:137) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:465) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration0(ProjectConfigurationManager.java:403) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$2.call(ProjectConfigurationManager.java:316) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$2.call(ProjectConfigurationManager.java:1) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:161) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:137) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:89) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1301) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:313) ~[na:na]
+	at org.eclipse.m2e.core.ui.internal.UpdateMavenProjectJob.runInWorkspace(UpdateMavenProjectJob.java:77) ~[org.eclipse.m2e.core.ui_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:38) ~[na:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53) ~[org.eclipse.core.jobs_3.5.300.v20130429-1813.jar:na]
+Caused by: org.eclipse.core.runtime.CoreException: One or more constraints have not been satisfied.
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.modifyInternal(FacetedProject.java:363) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.mergeChangesInternal(FacetedProject.java:1181) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.access$2(FacetedProject.java:1117) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject$1.run(FacetedProject.java:324) ~[na:na]
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2345) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.modify(FacetedProject.java:339) ~[na:na]
+	at org.eclipse.m2e.wtp.WebProjectConfiguratorDelegate.configure(WebProjectConfiguratorDelegate.java:150) ~[na:na]
+	at org.eclipse.m2e.wtp.AbstractProjectConfiguratorDelegate.configureProject(AbstractProjectConfiguratorDelegate.java:93) ~[na:na]
+	... 18 common frames omitted
+2014-05-07 09:25:46,524 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /CMS Client/src/main/java because it overlaps with /CMS Client/src
+2014-05-07 09:25:46,525 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /CMS Client/src/test/java because it overlaps with /CMS Client/src
+2014-05-07 09:25:46,891 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /CMS Data/src/main/java because it overlaps with /CMS Data/src
+2014-05-07 09:25:46,892 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /CMS Data/src/test/java because it overlaps with /CMS Data/src
+2014-05-07 09:25:47,267 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CMS-Rest-API/src/main/java
+2014-05-07 09:25:47,268 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CMS-Rest-API/src/test/java
+2014-05-07 09:25:47,794 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /NonMavenAuthObjects/src
+2014-05-07 09:25:47,795 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /NonMavenAuthObjects/src overlaps with sources folder /NonMavenAuthObjects/src
+2014-05-07 09:25:47,800 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /NonMavenAuthObjects/src/test/java because it overlaps with /NonMavenAuthObjects/src
+2014-05-07 09:25:49,145 [Worker-3] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for AuthService
+2014-05-07 09:25:49,409 [Worker-3] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for CMS-Rest-API
+2014-05-07 09:25:49,502 [Worker-3] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for NonMavenAuthObjects
+2014-05-07 09:25:49,526 [Worker-3] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 9 sec
+2014-05-07 09:25:49,976 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:25:49,989 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\CMS Client\src\main\resources
+2014-05-07 09:25:49,994 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:25:50,009 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\CMS Client\src\test\resources
+2014-05-07 09:25:50,427 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.neumont.csc380:CMS-Data:0.0.1-SNAPSHOT @ C:\School Work\Distributed Systems\NubayWorkspace\CMS Data\pom.xml.
+2014-05-07 09:25:51,056 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:25:51,063 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\CMS Data\src\main\resources
+2014-05-07 09:25:51,072 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:25:51,084 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\CMS Data\src\test\resources
+2014-05-07 09:25:51,759 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.neumont.csc380:cms-server:0.0.1-SNAPSHOT @ C:\School Work\Distributed Systems\NubayWorkspace\CMS-Rest-API\pom.xml.
+2014-05-07 09:25:54,026 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:25:54,038 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\CMS-Rest-API\src\main\resources
+2014-05-07 09:25:54,049 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:25:54,061 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\CMS-Rest-API\src\test\resources
+2014-05-07 09:25:54,522 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: NonMavenAuthObjects:NonMavenAuthObjects:0.0.1-SNAPSHOT @ C:\School Work\Distributed Systems\NubayWorkspace\NonMavenAuthObjects\pom.xml.
+2014-05-07 09:25:55,506 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:25:55,526 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-07 09:25:55,560 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:25:55,568 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\NonMavenAuthObjects\src\test\resources
+2014-05-07 09:25:55,778 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:25:55,790 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\AuthService\src\main\resources
+2014-05-07 09:25:55,799 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:25:55,805 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\AuthService\src\test\resources
+2014-05-07 09:27:56,405 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.neumont.csc380:CMS-Client:0.0.1-SNAPSHOT @ C:\School Work\Distributed Systems\NubayWorkspace\CMS Client\pom.xml.
+2014-05-07 09:27:57,075 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:27:57,081 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\CMS Client\src\main\resources
+2014-05-07 09:27:57,085 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:27:57,096 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\CMS Client\src\test\resources
+2014-05-07 09:28:15,119 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.neumont.csc380:CMS-Data:0.0.1-SNAPSHOT @ C:\School Work\Distributed Systems\NubayWorkspace\CMS Data\pom.xml.
+2014-05-07 09:28:15,682 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:28:15,694 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\CMS Data\src\main\resources
+2014-05-07 09:28:15,703 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:28:15,709 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\CMS Data\src\test\resources
+2014-05-07 09:35:31,446 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:35:31,453 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\AuthService\src\main\resources
+2014-05-07 09:35:31,462 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:35:31,474 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\AuthService\src\test\resources
+2014-05-07 09:35:48,695 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:35:48,703 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\CMS-Rest-API\src\main\resources
+2014-05-07 09:35:48,713 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:35:48,727 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\CMS-Rest-API\src\test\resources
+2014-05-07 09:39:35,082 [ModalContext] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-egit does not contain lifecycle mapping metadata
+2014-05-07 09:39:35,091 [ModalContext] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-subversive does not contain lifecycle mapping metadata
+2014-05-07 09:39:35,104 [ModalContext] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-subclipse does not contain lifecycle mapping metadata
+2014-05-07 09:39:52,274 [Worker-23] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Profile:Non-MavenObjectsProfileAPI:0.0.1-SNAPSHOT @ C:\School Work\Distributed Systems\NubayWorkspace\Non-MavenObjectsProfileAPI\pom.xml.
+2014-05-07 09:39:53,049 [Worker-23] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Non-MavenObjectsProfileAPI/src
+2014-05-07 09:39:53,055 [Worker-23] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /Non-MavenObjectsProfileAPI/src/test/java because it overlaps with /Non-MavenObjectsProfileAPI/src
+2014-05-07 09:39:53,244 [Worker-24] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Profile:Non-MavenObjectsProfileAPI:0.0.1-SNAPSHOT @ C:\School Work\Distributed Systems\NubayWorkspace\Non-MavenObjectsProfileAPI\pom.xml.
+2014-05-07 09:39:53,440 [Worker-23] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Project import completed 1 sec
+2014-05-07 09:39:53,825 [Worker-8] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2014-05-07 09:39:53,827 [Worker-8] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2014-05-07 09:39:54,491 [Worker-23] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Profile:Non-MavenObjectsProfileAPI:0.0.1-SNAPSHOT @ C:\School Work\Distributed Systems\NubayWorkspace\Non-MavenObjectsProfileAPI\pom.xml.
+2014-05-07 09:39:55,003 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:39:55,017 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\Non-MavenObjectsProfileAPI\src\main\resources
+2014-05-07 09:39:55,027 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:39:55,041 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\Non-MavenObjectsProfileAPI\src\test\resources
+2014-05-07 09:39:56,231 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Profile:Non-MavenObjectsProfileAPI:0.0.1-SNAPSHOT @ C:\School Work\Distributed Systems\NubayWorkspace\Non-MavenObjectsProfileAPI\pom.xml.
+2014-05-07 09:39:57,395 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:39:57,402 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\Non-MavenObjectsProfileAPI\src\main\resources
+2014-05-07 09:39:57,414 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:39:57,427 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\Non-MavenObjectsProfileAPI\src\test\resources
+2014-05-07 09:40:18,588 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: Profile:MavenServerProfile:0.0.1-SNAPSHOT @ C:\School Work\Distributed Systems\NubayWorkspace\MavenServerProfile\pom.xml.
+2014-05-07 09:40:19,678 [Worker-20] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MavenServerProfile/src/main/java
+2014-05-07 09:40:19,685 [Worker-20] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MavenServerProfile/src/test/java
+2014-05-07 09:40:20,087 [Worker-20] ERROR o.e.m2e.wtp.WTPProjectConfigurator - Unable to configure MavenServerProfile
+org.eclipse.m2e.wtp.MarkedException: Unable to configure MavenServerProfile
+	at org.eclipse.m2e.wtp.AbstractProjectConfiguratorDelegate.configureProject(AbstractProjectConfiguratorDelegate.java:97) ~[na:na]
+	at org.eclipse.m2e.wtp.WTPProjectConfigurator.configure(WTPProjectConfigurator.java:61) ~[na:na]
+	at org.eclipse.m2e.core.project.configurator.AbstractLifecycleMapping.configure(AbstractLifecycleMapping.java:109) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$3.call(ProjectConfigurationManager.java:472) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$3.call(ProjectConfigurationManager.java:1) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:161) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:137) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:465) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.configureNewMavenProjects(ProjectConfigurationManager.java:245) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$1.call(ProjectConfigurationManager.java:159) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$1.call(ProjectConfigurationManager.java:1) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:161) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:137) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:89) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1305) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.importProjects(ProjectConfigurationManager.java:134) ~[na:na]
+	at org.eclipse.m2e.core.ui.internal.wizards.MavenImportWizard$1.doCreateMavenProjects(MavenImportWizard.java:172) ~[org.eclipse.m2e.core.ui_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.ui.internal.wizards.AbstractCreateMavenProjectsOperation.run(AbstractCreateMavenProjectsOperation.java:74) ~[org.eclipse.m2e.core.ui_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.ui.internal.wizards.MavenImportWizard$3.runInWorkspace(MavenImportWizard.java:257) ~[org.eclipse.m2e.core.ui_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:38) ~[na:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53) ~[org.eclipse.core.jobs_3.5.300.v20130429-1813.jar:na]
+Caused by: org.eclipse.core.runtime.CoreException: One or more constraints have not been satisfied.
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.modifyInternal(FacetedProject.java:363) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.mergeChangesInternal(FacetedProject.java:1181) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.access$2(FacetedProject.java:1117) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject$1.run(FacetedProject.java:324) ~[na:na]
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2345) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.modify(FacetedProject.java:339) ~[na:na]
+	at org.eclipse.m2e.wtp.WebProjectConfiguratorDelegate.configure(WebProjectConfiguratorDelegate.java:150) ~[na:na]
+	at org.eclipse.m2e.wtp.AbstractProjectConfiguratorDelegate.configureProject(AbstractProjectConfiguratorDelegate.java:93) ~[na:na]
+	... 20 common frames omitted
+2014-05-07 09:40:20,147 [Worker-20] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Project import completed 1 sec
+2014-05-07 09:40:20,304 [Worker-20] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2014-05-07 09:40:20,318 [Worker-20] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2014-05-07 09:40:20,596 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: Profile:MavenServerProfile:0.0.1-SNAPSHOT @ C:\School Work\Distributed Systems\NubayWorkspace\MavenServerProfile\pom.xml.
+2014-05-07 09:40:20,702 [Worker-27] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: Profile:MavenServerProfile:0.0.1-SNAPSHOT @ C:\School Work\Distributed Systems\NubayWorkspace\MavenServerProfile\pom.xml.
+2014-05-07 09:40:21,614 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-07 09:40:21,621 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\MavenServerProfile\src\main\resources
+2014-05-07 09:40:21,631 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-07 09:40:21,637 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\MavenServerProfile\src\test\resources
+2014-05-07 09:40:22,891 [Worker-28] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: Profile:MavenServerProfile:0.0.1-SNAPSHOT @ C:\School Work\Distributed Systems\NubayWorkspace\MavenServerProfile\pom.xml.
+2014-05-07 09:40:23,945 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-07 09:40:23,952 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\MavenServerProfile\src\main\resources
+2014-05-07 09:40:23,961 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-07 09:40:23,961 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\MavenServerProfile\src\test\resources
+2014-05-07 09:40:43,773 [Worker-27] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: BestOnesProfile:MavenClientProfile:0.0.1-SNAPSHOT @ C:\School Work\Distributed Systems\NubayWorkspace\MavenClientProfile\pom.xml.
+2014-05-07 09:40:44,407 [Worker-27] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MavenClientProfile/src/main/java
+2014-05-07 09:40:44,408 [Worker-27] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MavenClientProfile/src/test/java
+2014-05-07 09:40:44,613 [Worker-27] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Project import completed 1 sec
+2014-05-07 09:40:44,702 [Worker-23] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: BestOnesProfile:MavenClientProfile:0.0.1-SNAPSHOT @ C:\School Work\Distributed Systems\NubayWorkspace\MavenClientProfile\pom.xml.
+2014-05-07 09:40:44,758 [Worker-26] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2014-05-07 09:40:44,767 [Worker-26] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2014-05-07 09:40:45,126 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-07 09:40:45,133 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\MavenClientProfile\src\main\resources
+2014-05-07 09:40:45,136 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-07 09:40:45,136 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\MavenClientProfile\src\test\resources
+2014-05-07 09:40:46,343 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: BestOnesProfile:MavenClientProfile:0.0.1-SNAPSHOT @ C:\School Work\Distributed Systems\NubayWorkspace\MavenClientProfile\pom.xml.
+2014-05-07 09:40:47,253 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-07 09:40:47,260 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\MavenClientProfile\src\main\resources
+2014-05-07 09:40:47,270 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-07 09:40:47,270 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\MavenClientProfile\src\test\resources
+2014-05-07 09:45:37,281 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:45:37,289 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\CMS-Rest-API\src\main\resources
+2014-05-07 09:45:37,293 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:45:37,301 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\CMS-Rest-API\src\test\resources
+2014-05-07 09:48:16,324 [Worker-35] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2014-05-07 09:48:17,167 [Worker-35] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: AuthService:AuthService:0.0.1-SNAPSHOT @ C:\School Work\Distributed Systems\NubayWorkspace\AuthService\pom.xml.
+2014-05-07 09:48:17,617 [Worker-35] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.neumont.csc380:CMS-Client:0.0.1-SNAPSHOT @ C:\School Work\Distributed Systems\NubayWorkspace\CMS Client\pom.xml.
+2014-05-07 09:48:17,906 [Worker-35] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.neumont.csc380:CMS-Data:0.0.1-SNAPSHOT @ C:\School Work\Distributed Systems\NubayWorkspace\CMS Data\pom.xml.
+2014-05-07 09:48:18,044 [Worker-35] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.neumont.csc380:cms-server:0.0.1-SNAPSHOT @ C:\School Work\Distributed Systems\NubayWorkspace\CMS-Rest-API\pom.xml.
+2014-05-07 09:48:18,187 [Worker-35] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: BestOnesProfile:MavenClientProfile:0.0.1-SNAPSHOT @ C:\School Work\Distributed Systems\NubayWorkspace\MavenClientProfile\pom.xml.
+2014-05-07 09:48:18,337 [Worker-35] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: Profile:MavenServerProfile:0.0.1-SNAPSHOT @ C:\School Work\Distributed Systems\NubayWorkspace\MavenServerProfile\pom.xml.
+2014-05-07 09:48:18,463 [Worker-35] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Profile:Non-MavenObjectsProfileAPI:0.0.1-SNAPSHOT @ C:\School Work\Distributed Systems\NubayWorkspace\Non-MavenObjectsProfileAPI\pom.xml.
+2014-05-07 09:48:18,601 [Worker-35] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: NonMavenAuthObjects:NonMavenAuthObjects:0.0.1-SNAPSHOT @ C:\School Work\Distributed Systems\NubayWorkspace\NonMavenAuthObjects\pom.xml.
+2014-05-07 09:48:21,277 [Worker-35] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /AuthService/src/main/java
+2014-05-07 09:48:21,285 [Worker-35] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /AuthService/src/test/java
+2014-05-07 09:48:21,732 [Worker-35] ERROR o.e.m2e.wtp.WTPProjectConfigurator - Unable to configure AuthService
+org.eclipse.m2e.wtp.MarkedException: Unable to configure AuthService
+	at org.eclipse.m2e.wtp.AbstractProjectConfiguratorDelegate.configureProject(AbstractProjectConfiguratorDelegate.java:97) ~[na:na]
+	at org.eclipse.m2e.wtp.WTPProjectConfigurator.configure(WTPProjectConfigurator.java:61) ~[na:na]
+	at org.eclipse.m2e.core.project.configurator.AbstractLifecycleMapping.configure(AbstractLifecycleMapping.java:109) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$3.call(ProjectConfigurationManager.java:472) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$3.call(ProjectConfigurationManager.java:1) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:161) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:137) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:465) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration0(ProjectConfigurationManager.java:403) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$2.call(ProjectConfigurationManager.java:316) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$2.call(ProjectConfigurationManager.java:1) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:161) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:137) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:89) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1301) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:313) ~[na:na]
+	at org.eclipse.m2e.core.ui.internal.UpdateMavenProjectJob.runInWorkspace(UpdateMavenProjectJob.java:77) ~[org.eclipse.m2e.core.ui_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:38) ~[na:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53) ~[org.eclipse.core.jobs_3.5.300.v20130429-1813.jar:na]
+Caused by: org.eclipse.core.runtime.CoreException: One or more constraints have not been satisfied.
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.modifyInternal(FacetedProject.java:363) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.mergeChangesInternal(FacetedProject.java:1181) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.access$2(FacetedProject.java:1117) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject$1.run(FacetedProject.java:324) ~[na:na]
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2345) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.modify(FacetedProject.java:339) ~[na:na]
+	at org.eclipse.m2e.wtp.WebProjectConfiguratorDelegate.configure(WebProjectConfiguratorDelegate.java:150) ~[na:na]
+	at org.eclipse.m2e.wtp.AbstractProjectConfiguratorDelegate.configureProject(AbstractProjectConfiguratorDelegate.java:93) ~[na:na]
+	... 18 common frames omitted
+2014-05-07 09:48:21,793 [Worker-35] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /CMS Client/src/main/java because it overlaps with /CMS Client/src
+2014-05-07 09:48:21,793 [Worker-35] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /CMS Client/src/test/java because it overlaps with /CMS Client/src
+2014-05-07 09:48:22,054 [Worker-35] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /CMS Data/src/main/java because it overlaps with /CMS Data/src
+2014-05-07 09:48:22,055 [Worker-35] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /CMS Data/src/test/java because it overlaps with /CMS Data/src
+2014-05-07 09:48:22,399 [Worker-35] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CMS-Rest-API/src/main/java
+2014-05-07 09:48:22,401 [Worker-35] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CMS-Rest-API/src/test/java
+2014-05-07 09:48:23,355 [Worker-35] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MavenClientProfile/src/main/java
+2014-05-07 09:48:23,357 [Worker-35] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MavenClientProfile/src/test/java
+2014-05-07 09:48:23,646 [Worker-35] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MavenServerProfile/src/main/java
+2014-05-07 09:48:23,653 [Worker-35] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MavenServerProfile/src/test/java
+2014-05-07 09:48:23,881 [Worker-35] ERROR o.e.m2e.wtp.WTPProjectConfigurator - Unable to configure MavenServerProfile
+org.eclipse.m2e.wtp.MarkedException: Unable to configure MavenServerProfile
+	at org.eclipse.m2e.wtp.AbstractProjectConfiguratorDelegate.configureProject(AbstractProjectConfiguratorDelegate.java:97) ~[na:na]
+	at org.eclipse.m2e.wtp.WTPProjectConfigurator.configure(WTPProjectConfigurator.java:61) ~[na:na]
+	at org.eclipse.m2e.core.project.configurator.AbstractLifecycleMapping.configure(AbstractLifecycleMapping.java:109) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$3.call(ProjectConfigurationManager.java:472) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$3.call(ProjectConfigurationManager.java:1) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:161) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:137) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:465) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration0(ProjectConfigurationManager.java:403) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$2.call(ProjectConfigurationManager.java:316) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$2.call(ProjectConfigurationManager.java:1) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:161) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:137) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:89) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1301) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:313) ~[na:na]
+	at org.eclipse.m2e.core.ui.internal.UpdateMavenProjectJob.runInWorkspace(UpdateMavenProjectJob.java:77) ~[org.eclipse.m2e.core.ui_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:38) ~[na:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53) ~[org.eclipse.core.jobs_3.5.300.v20130429-1813.jar:na]
+Caused by: org.eclipse.core.runtime.CoreException: One or more constraints have not been satisfied.
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.modifyInternal(FacetedProject.java:363) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.mergeChangesInternal(FacetedProject.java:1181) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.access$2(FacetedProject.java:1117) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject$1.run(FacetedProject.java:324) ~[na:na]
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2345) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.modify(FacetedProject.java:339) ~[na:na]
+	at org.eclipse.m2e.wtp.WebProjectConfiguratorDelegate.configure(WebProjectConfiguratorDelegate.java:150) ~[na:na]
+	at org.eclipse.m2e.wtp.AbstractProjectConfiguratorDelegate.configureProject(AbstractProjectConfiguratorDelegate.java:93) ~[na:na]
+	... 18 common frames omitted
+2014-05-07 09:48:23,933 [Worker-35] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Non-MavenObjectsProfileAPI/src
+2014-05-07 09:48:23,940 [Worker-35] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /Non-MavenObjectsProfileAPI/src/test/java because it overlaps with /Non-MavenObjectsProfileAPI/src
+2014-05-07 09:48:24,294 [Worker-35] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /NonMavenAuthObjects/src
+2014-05-07 09:48:24,301 [Worker-35] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /NonMavenAuthObjects/src overlaps with sources folder /NonMavenAuthObjects/src
+2014-05-07 09:48:24,304 [Worker-35] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /NonMavenAuthObjects/src/test/java because it overlaps with /NonMavenAuthObjects/src
+2014-05-07 09:48:25,613 [Worker-35] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for AuthService
+2014-05-07 09:48:25,788 [Worker-35] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for CMS-Rest-API
+2014-05-07 09:48:25,892 [Worker-35] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for MavenServerProfile
+2014-05-07 09:48:26,026 [Worker-35] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for NonMavenAuthObjects
+2014-05-07 09:48:26,049 [Worker-35] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 9 sec
+2014-05-07 09:48:26,699 [Worker-32] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.neumont.csc380:CMS-Data:0.0.1-SNAPSHOT @ C:\School Work\Distributed Systems\NubayWorkspace\CMS Data\pom.xml.
+2014-05-07 09:48:27,294 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:48:27,301 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\CMS Data\src\main\resources
+2014-05-07 09:48:27,310 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:48:27,316 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\CMS Data\src\test\resources
+2014-05-07 09:48:27,459 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:48:27,466 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\CMS Client\src\main\resources
+2014-05-07 09:48:27,476 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:48:27,482 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\CMS Client\src\test\resources
+2014-05-07 09:48:27,939 [Worker-32] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.neumont.csc380:cms-server:0.0.1-SNAPSHOT @ C:\School Work\Distributed Systems\NubayWorkspace\CMS-Rest-API\pom.xml.
+2014-05-07 09:48:28,731 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:48:28,744 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\CMS-Rest-API\src\main\resources
+2014-05-07 09:48:28,754 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:48:28,769 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\CMS-Rest-API\src\test\resources
+2014-05-07 09:48:29,333 [Worker-40] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Profile:Non-MavenObjectsProfileAPI:0.0.1-SNAPSHOT @ C:\School Work\Distributed Systems\NubayWorkspace\Non-MavenObjectsProfileAPI\pom.xml.
+2014-05-07 09:48:29,808 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:48:29,815 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\Non-MavenObjectsProfileAPI\src\main\resources
+2014-05-07 09:48:29,818 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:48:29,825 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\Non-MavenObjectsProfileAPI\src\test\resources
+2014-05-07 09:48:29,967 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-07 09:48:29,968 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\MavenServerProfile\src\main\resources
+2014-05-07 09:48:29,971 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-07 09:48:29,971 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\MavenServerProfile\src\test\resources
+2014-05-07 09:48:30,131 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-07 09:48:30,132 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\MavenClientProfile\src\main\resources
+2014-05-07 09:48:30,135 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-07 09:48:30,135 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\MavenClientProfile\src\test\resources
+2014-05-07 09:48:30,628 [Worker-40] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: NonMavenAuthObjects:NonMavenAuthObjects:0.0.1-SNAPSHOT @ C:\School Work\Distributed Systems\NubayWorkspace\NonMavenAuthObjects\pom.xml.
+2014-05-07 09:48:31,613 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:48:31,627 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-05-07 09:48:31,642 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:48:31,654 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\NonMavenAuthObjects\src\test\resources
+2014-05-07 09:48:32,086 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:48:32,098 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\AuthService\src\main\resources
+2014-05-07 09:48:32,101 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:48:32,113 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\AuthService\src\test\resources
+2014-05-07 09:53:54,954 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:53:54,972 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\CMS-Rest-API\src\main\resources
+2014-05-07 09:53:54,980 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:53:54,988 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\CMS-Rest-API\src\test\resources
+2014-05-07 09:53:56,695 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-07 09:53:56,696 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\MavenServerProfile\src\main\resources
+2014-05-07 09:53:56,701 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-07 09:53:56,701 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\MavenServerProfile\src\test\resources
+2014-05-07 09:53:57,661 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-07 09:53:57,661 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\MavenClientProfile\src\main\resources
+2014-05-07 09:53:57,669 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-07 09:53:57,669 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\MavenClientProfile\src\test\resources
+2014-05-07 09:54:36,520 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.neumont.csc380:CMS-Data:0.0.1-SNAPSHOT @ C:\School Work\Distributed Systems\NubayWorkspace\CMS Data\pom.xml.
+2014-05-07 09:54:38,051 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:54:38,059 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\CMS Data\src\main\resources
+2014-05-07 09:54:38,063 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:54:38,082 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\CMS Data\src\test\resources
+2014-05-07 09:54:44,822 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.neumont.csc380:cms-server:0.0.1-SNAPSHOT @ C:\School Work\Distributed Systems\NubayWorkspace\CMS-Rest-API\pom.xml.
+2014-05-07 09:54:46,259 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:54:46,269 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\CMS-Rest-API\src\main\resources
+2014-05-07 09:54:46,281 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:54:46,296 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\CMS-Rest-API\src\test\resources
+2014-05-07 10:02:50,014 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: AuthService:AuthService:0.0.1-SNAPSHOT @ C:\School Work\Distributed Systems\NubayWorkspace\AuthService\pom.xml.
+2014-05-07 10:02:50,809 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:02:50,821 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\AuthService\src\main\resources
+2014-05-07 10:02:50,831 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:02:50,843 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\AuthService\src\test\resources
+2014-05-07 10:02:50,844 [Worker-3] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of AuthService
+2014-05-07 10:02:50,851 [Worker-3] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for AuthService
+2014-05-07 10:02:50,887 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:03:23,583 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: AuthService:AuthService:0.0.1-SNAPSHOT @ C:\School Work\Distributed Systems\NubayWorkspace\AuthService\pom.xml.
+2014-05-07 10:03:24,409 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:03:24,422 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\AuthService\src\main\resources
+2014-05-07 10:03:24,425 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:03:24,438 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\AuthService\src\test\resources
+2014-05-07 10:03:24,438 [Worker-15] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of AuthService
+2014-05-07 10:03:24,444 [Worker-15] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for AuthService
+2014-05-07 10:03:24,460 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:03:48,409 [Worker-3] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2014-05-07 10:03:48,559 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: AuthService:AuthService:0.0.1-SNAPSHOT @ C:\School Work\Distributed Systems\NubayWorkspace\AuthService\pom.xml.
+2014-05-07 10:03:49,236 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /AuthService/src/main/java
+2014-05-07 10:03:49,238 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /AuthService/src/test/java
+2014-05-07 10:03:51,086 [Worker-3] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for AuthService
+2014-05-07 10:03:51,116 [Worker-3] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2014-05-07 10:03:51,651 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: AuthService:AuthService:0.0.1-SNAPSHOT @ C:\School Work\Distributed Systems\NubayWorkspace\AuthService\pom.xml.
+2014-05-07 10:03:53,852 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:03:53,865 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\AuthService\src\main\resources
+2014-05-07 10:03:53,875 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:03:53,890 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\AuthService\src\test\resources
+2014-05-07 10:03:54,440 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: AuthService:AuthService:0.0.1-SNAPSHOT @ C:\School Work\Distributed Systems\NubayWorkspace\AuthService\pom.xml.
+2014-05-07 10:03:55,486 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:03:55,492 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\AuthService\src\main\resources
+2014-05-07 10:03:55,502 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:03:55,517 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\AuthService\src\test\resources
+2014-05-07 10:05:03,573 [Worker-17] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: Profile:MavenServerProfile:0.0.1-SNAPSHOT @ C:\School Work\Distributed Systems\NubayWorkspace\MavenServerProfile\pom.xml.
+2014-05-07 10:05:04,581 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-07 10:05:04,588 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\MavenServerProfile\src\main\resources
+2014-05-07 10:05:04,597 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-07 10:05:04,603 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\MavenServerProfile\src\test\resources
+2014-05-07 10:05:04,604 [Worker-17] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of MavenServerProfile
+2014-05-07 10:05:04,610 [Worker-17] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for MavenServerProfile
+2014-05-07 10:05:04,634 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-07 10:05:12,731 [Worker-18] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2014-05-07 10:05:12,874 [Worker-18] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: Profile:MavenServerProfile:0.0.1-SNAPSHOT @ C:\School Work\Distributed Systems\NubayWorkspace\MavenServerProfile\pom.xml.
+2014-05-07 10:05:13,741 [Worker-18] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MavenServerProfile/src/main/java
+2014-05-07 10:05:13,742 [Worker-18] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MavenServerProfile/src/test/java
+2014-05-07 10:05:14,107 [Worker-18] ERROR o.e.m2e.wtp.WTPProjectConfigurator - Unable to configure MavenServerProfile
+org.eclipse.m2e.wtp.MarkedException: Unable to configure MavenServerProfile
+	at org.eclipse.m2e.wtp.AbstractProjectConfiguratorDelegate.configureProject(AbstractProjectConfiguratorDelegate.java:97) ~[na:na]
+	at org.eclipse.m2e.wtp.WTPProjectConfigurator.configure(WTPProjectConfigurator.java:61) ~[na:na]
+	at org.eclipse.m2e.core.project.configurator.AbstractLifecycleMapping.configure(AbstractLifecycleMapping.java:109) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$3.call(ProjectConfigurationManager.java:472) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$3.call(ProjectConfigurationManager.java:1) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:161) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:137) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:465) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration0(ProjectConfigurationManager.java:403) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$2.call(ProjectConfigurationManager.java:316) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$2.call(ProjectConfigurationManager.java:1) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:161) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:137) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:89) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1301) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:313) ~[na:na]
+	at org.eclipse.m2e.core.ui.internal.UpdateMavenProjectJob.runInWorkspace(UpdateMavenProjectJob.java:77) ~[org.eclipse.m2e.core.ui_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:38) ~[na:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53) ~[org.eclipse.core.jobs_3.5.300.v20130429-1813.jar:na]
+Caused by: org.eclipse.core.runtime.CoreException: One or more constraints have not been satisfied.
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.modifyInternal(FacetedProject.java:363) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.mergeChangesInternal(FacetedProject.java:1181) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.access$2(FacetedProject.java:1117) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject$1.run(FacetedProject.java:324) ~[na:na]
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2345) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.modify(FacetedProject.java:339) ~[na:na]
+	at org.eclipse.m2e.wtp.WebProjectConfiguratorDelegate.configure(WebProjectConfiguratorDelegate.java:150) ~[na:na]
+	at org.eclipse.m2e.wtp.AbstractProjectConfiguratorDelegate.configureProject(AbstractProjectConfiguratorDelegate.java:93) ~[na:na]
+	... 18 common frames omitted
+2014-05-07 10:05:14,470 [Worker-18] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for MavenServerProfile
+2014-05-07 10:05:14,495 [Worker-18] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2014-05-07 10:05:14,947 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: Profile:MavenServerProfile:0.0.1-SNAPSHOT @ C:\School Work\Distributed Systems\NubayWorkspace\MavenServerProfile\pom.xml.
+2014-05-07 10:05:15,966 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-07 10:05:15,966 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\MavenServerProfile\src\main\resources
+2014-05-07 10:05:15,976 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-07 10:05:15,982 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\MavenServerProfile\src\test\resources
+2014-05-07 10:06:14,223 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Profile:Non-MavenObjectsProfileAPI:0.0.1-SNAPSHOT @ C:\School Work\Distributed Systems\NubayWorkspace\Non-MavenObjectsProfileAPI\pom.xml.
+2014-05-07 10:06:14,818 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:06:14,833 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\Non-MavenObjectsProfileAPI\src\main\resources
+2014-05-07 10:06:14,844 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:06:14,859 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\Non-MavenObjectsProfileAPI\src\test\resources
+2014-05-07 10:06:15,240 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: Profile:MavenServerProfile:0.0.1-SNAPSHOT @ C:\School Work\Distributed Systems\NubayWorkspace\MavenServerProfile\pom.xml.
+2014-05-07 10:06:16,282 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-07 10:06:16,282 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\MavenServerProfile\src\main\resources
+2014-05-07 10:06:16,285 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-07 10:06:16,285 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\MavenServerProfile\src\test\resources
+2014-05-07 10:06:55,481 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: Profile:MavenServerProfile:0.0.1-SNAPSHOT @ C:\School Work\Distributed Systems\NubayWorkspace\MavenServerProfile\pom.xml.
+2014-05-07 10:06:56,515 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-07 10:06:56,522 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\MavenServerProfile\src\main\resources
+2014-05-07 10:06:56,531 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-07 10:06:56,537 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\MavenServerProfile\src\test\resources
+2014-05-07 10:07:08,297 [Worker-18] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.neumont.csc380:cms-server:0.0.1-SNAPSHOT @ C:\School Work\Distributed Systems\NubayWorkspace\CMS-Rest-API\pom.xml.
+2014-05-07 10:07:09,234 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:07:09,240 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\CMS-Rest-API\src\main\resources
+2014-05-07 10:07:09,250 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:07:09,266 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\CMS-Rest-API\src\test\resources
+2014-05-07 10:08:08,326 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:08:08,334 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\CMS-Rest-API\src\main\resources
+2014-05-07 10:08:08,347 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:08:08,361 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\CMS-Rest-API\src\test\resources
+2014-05-07 10:08:29,962 [ModalContext] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-egit does not contain lifecycle mapping metadata
+2014-05-07 10:08:29,971 [ModalContext] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-subversive does not contain lifecycle mapping metadata
+2014-05-07 10:08:29,986 [ModalContext] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-subclipse does not contain lifecycle mapping metadata
+2014-05-07 10:08:35,477 [Worker-31] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: Profile:MavenServerProfile:0.0.1-SNAPSHOT @ C:\School Work\Distributed Systems\NubayWorkspace\MavenServerProfile\pom.xml.
+2014-05-07 10:08:37,427 [Worker-31] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MavenServerProfile/src/main/java
+2014-05-07 10:08:37,437 [Worker-31] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MavenServerProfile/src/test/java
+2014-05-07 10:08:37,961 [Worker-31] ERROR o.e.m2e.wtp.WTPProjectConfigurator - Unable to configure MavenServerProfile
+org.eclipse.m2e.wtp.MarkedException: Unable to configure MavenServerProfile
+	at org.eclipse.m2e.wtp.AbstractProjectConfiguratorDelegate.configureProject(AbstractProjectConfiguratorDelegate.java:97) ~[na:na]
+	at org.eclipse.m2e.wtp.WTPProjectConfigurator.configure(WTPProjectConfigurator.java:61) ~[na:na]
+	at org.eclipse.m2e.core.project.configurator.AbstractLifecycleMapping.configure(AbstractLifecycleMapping.java:109) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$3.call(ProjectConfigurationManager.java:472) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$3.call(ProjectConfigurationManager.java:1) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:161) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:137) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:465) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.configureNewMavenProjects(ProjectConfigurationManager.java:245) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$1.call(ProjectConfigurationManager.java:159) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$1.call(ProjectConfigurationManager.java:1) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:161) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:137) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:89) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1305) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.importProjects(ProjectConfigurationManager.java:134) ~[na:na]
+	at org.eclipse.m2e.core.ui.internal.wizards.MavenImportWizard$1.doCreateMavenProjects(MavenImportWizard.java:172) ~[org.eclipse.m2e.core.ui_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.ui.internal.wizards.AbstractCreateMavenProjectsOperation.run(AbstractCreateMavenProjectsOperation.java:74) ~[org.eclipse.m2e.core.ui_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.ui.internal.wizards.MavenImportWizard$3.runInWorkspace(MavenImportWizard.java:257) ~[org.eclipse.m2e.core.ui_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:38) ~[na:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53) ~[org.eclipse.core.jobs_3.5.300.v20130429-1813.jar:na]
+Caused by: org.eclipse.core.runtime.CoreException: One or more constraints have not been satisfied.
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.modifyInternal(FacetedProject.java:363) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.mergeChangesInternal(FacetedProject.java:1181) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.access$2(FacetedProject.java:1117) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject$1.run(FacetedProject.java:324) ~[na:na]
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2345) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.modify(FacetedProject.java:339) ~[na:na]
+	at org.eclipse.m2e.wtp.WebProjectConfiguratorDelegate.configure(WebProjectConfiguratorDelegate.java:150) ~[na:na]
+	at org.eclipse.m2e.wtp.AbstractProjectConfiguratorDelegate.configureProject(AbstractProjectConfiguratorDelegate.java:93) ~[na:na]
+	... 20 common frames omitted
+2014-05-07 10:08:38,014 [Worker-31] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Project import completed 2 sec
+2014-05-07 10:08:38,459 [Worker-29] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: Profile:MavenServerProfile:0.0.1-SNAPSHOT @ C:\School Work\Distributed Systems\NubayWorkspace\MavenServerProfile\pom.xml.
+2014-05-07 10:08:38,479 [Worker-33] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2014-05-07 10:08:38,491 [Worker-33] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2014-05-07 10:08:39,689 [Worker-34] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: Profile:MavenServerProfile:0.0.1-SNAPSHOT @ C:\School Work\Distributed Systems\NubayWorkspace\MavenServerProfile\pom.xml.
+2014-05-07 10:08:40,677 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-07 10:08:40,684 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\MavenServerProfile\src\main\resources
+2014-05-07 10:08:40,693 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-07 10:08:40,693 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\MavenServerProfile\src\test\resources
+2014-05-07 10:08:41,987 [Worker-31] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: Profile:MavenServerProfile:0.0.1-SNAPSHOT @ C:\School Work\Distributed Systems\NubayWorkspace\MavenServerProfile\pom.xml.
+2014-05-07 10:08:43,187 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-07 10:08:43,194 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\MavenServerProfile\src\main\resources
+2014-05-07 10:08:43,204 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-07 10:08:43,212 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\MavenServerProfile\src\test\resources
+2014-05-07 10:32:18,485 [Worker-54] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\School Work\Distributed Systems\NubayWorkspace\NubayAPI_CMF\pom.xml
+2014-05-07 10:32:18,683 [Worker-54] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: NubayAPI_CMF:NubayAPI_CMF:0.0.1-SNAPSHOT @ C:\School Work\Distributed Systems\NubayWorkspace\NubayAPI_CMF\pom.xml.
+2014-05-07 10:32:19,091 [Worker-54] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /NubayAPI_CMF/src/main/java
+2014-05-07 10:32:19,114 [Worker-54] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /NubayAPI_CMF/src/test/java
+2014-05-07 10:32:19,308 [Worker-54] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Project import completed 0 sec
+2014-05-07 10:32:20,069 [Worker-51] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: NubayAPI_CMF:NubayAPI_CMF:0.0.1-SNAPSHOT @ C:\School Work\Distributed Systems\NubayWorkspace\NubayAPI_CMF\pom.xml.
+2014-05-07 10:32:20,335 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-07 10:32:20,342 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\NubayAPI_CMF\src\main\resources
+2014-05-07 10:32:20,352 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-07 10:32:20,360 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\NubayAPI_CMF\src\test\resources
+2014-05-07 10:32:20,622 [Worker-55] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: NubayAPI_CMF:NubayAPI_CMF:0.0.1-SNAPSHOT @ C:\School Work\Distributed Systems\NubayWorkspace\NubayAPI_CMF\pom.xml.
+2014-05-07 10:32:21,559 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-07 10:32:21,559 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\NubayAPI_CMF\src\main\resources
+2014-05-07 10:32:21,571 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-07 10:32:21,579 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\School Work\Distributed Systems\NubayWorkspace\NubayAPI_CMF\src\test\resources

@@ -1,0 +1,5 @@
+INDEX VERSION 1.122+C:\School Work\Distributed Systems\NubayWorkspace\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+290035313.index
+1477381366.index
+1033102340.index
+1042955186.index
