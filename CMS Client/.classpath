@@ -13,6 +13,6 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry combineaccessrules="false" kind="src" path="/CMS Data"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/CMS-Data"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
