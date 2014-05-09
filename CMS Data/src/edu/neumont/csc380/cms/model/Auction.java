@@ -16,6 +16,7 @@ public class Auction implements Serializable {
 	public Auction() {
 		auctionImages = new ArrayList<Long>();
 		auctionVideos = new ArrayList<Long>();
+		bid = new Bid();
 	}
 
 	public void addMedia(Media media) {

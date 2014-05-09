@@ -62,7 +62,16 @@ public class CMSData {
 	}
 
 	public long getId() {
-		currentID++;
-		return currentID;
+		return ++currentID;
+	}
+
+	public void addAuction(Long id, Auction item) {
+		if (id == 0)
+			item.setAuctionId(getId());
+		auctionMap.put(item.getAuctionId(), item);
+	}
+
+	public Auction removeAuction(Long id) {
+		return auctionMap.remove(id);
 	}
 }
