@@ -10,8 +10,8 @@ import javax.ws.rs.PathParam;
 import javax.ws.rs.Produces;
 import javax.ws.rs.core.Response;
 
-import com.nubay.model.Bid;
-import com.nubay.model.Item;
+import edu.neumont.csc380.cms.model.Auction;
+import edu.neumont.csc380.cms.model.Bid;
 
 @Path("/item")
 @Consumes("application/vnd.neumont.edu.auction-v1+json")
@@ -27,11 +27,11 @@ public interface ItemService {
 
 	@POST
 	@Path("/")
-	Response addItem(@PathParam("mediaId") Long id, Item item);
+	Response addItem(Auction item);
 
 	@PUT
-	@Path("/")
-	Response updateItem(@PathParam("mediaId") Long id, Item item);
+	@Path("/{itemId}")
+	Response updateItem(@PathParam("itemId") Long id, Auction item);
 
 	@GET
 	@Path("/{itemId}/bid")

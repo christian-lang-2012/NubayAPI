@@ -1,4 +1,5 @@
 package edu.neumont.csc380.cms.client;
+
 import java.awt.image.BufferedImage;
 import java.awt.image.DataBufferByte;
 import java.awt.image.WritableRaster;
@@ -18,7 +19,7 @@ import edu.neumont.csc380.cms.service.MediaService;
 
 public class CMSClient {
 	private MediaService service = JAXRSClientFactory.create(
-			"http://localhost:8080/CMS-server/api", MediaService.class,
+			"http://localhost:8080/cms-server/cms", MediaService.class,
 			Arrays.asList(new JacksonJaxbJsonProvider()));
 
 	public Response getMedia(Long id) {
@@ -45,14 +46,14 @@ public class CMSClient {
 		return service.getMediaByAuction(id);
 	}
 
-	public void setUserProfilePicture(Long id, String caption, byte[] data,
+	public Response setUserProfilePicture(Long id, String caption, byte[] data,
 			String mimeType) {
-		service.setUserProfilePicture(id, caption, data, mimeType);
+		return service.setUserProfilePicture(id, caption, data, mimeType);
 	}
 
-	public void addAuctionMedia(Long id, String caption, byte[] data,
+	public Response addAuctionMedia(Long id, String caption, byte[] data,
 			String mimeType) {
-		service.addAuctionMedia(id, caption, data, mimeType);
+		return service.addAuctionMedia(id, caption, data, mimeType);
 	}
 
 	public static void main(String[] args) {

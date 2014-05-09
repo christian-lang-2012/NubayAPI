@@ -3,6 +3,7 @@
 	<name>MavenClientProfile</name>
 	<comment></comment>
 	<projects>
+		<project>Non-MavenObjectsProfileAPI</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>

@@ -32,6 +32,7 @@ public class AuthorizationHandler implements RequestHandler {
 			// TODO: somehow verify validity
 		} else {
 			// TODO: return forbidden or tell user to authorize?
+
 		}
 		return null;
 	}

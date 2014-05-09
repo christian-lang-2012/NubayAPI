@@ -11,6 +11,7 @@ public class Auction implements Serializable {
 	private long auctionId;
 	private List<Long> auctionImages;
 	private List<Long> auctionVideos;
+	private Bid bid;
 
 	public Auction() {
 		auctionImages = new ArrayList<Long>();
@@ -47,5 +48,13 @@ public class Auction implements Serializable {
 
 	public void setAuctionVideos(List<Long> auctionVideos) {
 		this.auctionVideos = auctionVideos;
+	}
+
+	public Bid getBid() {
+		return bid;
+	}
+
+	public void setBid(Bid bid) {
+		this.bid = bid;
 	}
 }

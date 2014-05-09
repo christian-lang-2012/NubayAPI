@@ -3,6 +3,10 @@
 	<name>NubayAPI_CMF</name>
 	<comment></comment>
 	<projects>
+		<project>AuthService</project>
+		<project>CMS-Client</project>
+		<project>CMS-Data</project>
+		<project>MavenClientProfile</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
